@@ -220,10 +220,9 @@ background: #9F3442;
 
 
 .map{
-	display:flex-end;
-	justify-content: space-between;
-        align-items: center;
-	width: 1135px;
-        height: 130px;
+	margin: 10px 100px;
+        padding: 15px 65px;
+        border-radius: 5px;
+        box-shadow: 5px 5px 8px #78D9FA;
 }
 
