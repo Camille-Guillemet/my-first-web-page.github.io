@@ -55,19 +55,19 @@ div {
 .line-light {
   height: 5px;
   width: 20%;
-  background: #EE9CA7;
+  background: #0000C2;
 }
 
 .line-medium {
    height: 5px;
    width: 30%;
-   background: #C86472;
+   background: #0000C2;
 }
 
 .line-hard {
   height: 5px;
   width: 50%;
-  background: #9F3442;
+  background: #0000C2;
 }
 
 
